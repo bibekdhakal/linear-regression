@@ -50,7 +50,6 @@ This repository contains Python code for analyzing Parkinson's Disease data usin
 
 ## Dependencies
 
-ss
 Make sure you have the following Python libraries installed:
 
 - pandas
